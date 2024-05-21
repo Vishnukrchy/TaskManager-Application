@@ -61,8 +61,6 @@ The ToDo Application is a web-based tool for managing tasks. It allows users to 
 ## Contribution
 Feel free to fork this repository and contribute by submitting a pull request. Any contributions, issues, and feature requests are welcome.
 
-## License
-This project is licensed under the MIT License.
 
 ## Contact
-For any questions or feedback, please contact [your-email@example.com].
+For any questions or feedback, please contact vishnukrkamat@gmail.com
